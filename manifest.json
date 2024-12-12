@@ -1,0 +1,76 @@
+{
+  "files": {
+    "FASTN.ftd": {
+      "name": "FASTN.ftd",
+      "checksum": "F4F6EEDBC30B105018EE7B9F3B1F8B484F6D3AE4CE239CF714883DC2D072093C",
+      "size": 3410
+    },
+    "README.md": {
+      "name": "README.md",
+      "checksum": "465E7B320730113FA3325965E7FEFC427BAF74282457D8281B1048E3BABD10F9",
+      "size": 1008
+    },
+    "custom.ftd": {
+      "name": "custom.ftd",
+      "checksum": "721523DDCC5DBECA2B8D9F1C0EBFAB094E24187021F57C818D816AF080FD3E78",
+      "size": 6078
+    },
+    "index.ftd": {
+      "name": "index.ftd",
+      "checksum": "0D7DE4F534EE9216C1691DB5FB07C26C96FE55307442F238BC746FBA6A29020C",
+      "size": 2147
+    },
+    "static/Raleway-100-900-italic-cyrillic-ext.woff2": {
+      "name": "static/Raleway-100-900-italic-cyrillic-ext.woff2",
+      "checksum": "89A1AE829083A7A7263C4BB4119395477139E3866409F6A7C7E7E309F228D5B1",
+      "size": 30484
+    },
+    "static/Raleway-100-900-italic-cyrillic.woff2": {
+      "name": "static/Raleway-100-900-italic-cyrillic.woff2",
+      "checksum": "89E2FEC6AE35955F0B2B6ECB8E5497C274A34D483D24CE75A862140EC88C0865",
+      "size": 26120
+    },
+    "static/Raleway-100-900-italic-latin-ext.woff2": {
+      "name": "static/Raleway-100-900-italic-latin-ext.woff2",
+      "checksum": "2E2E7E77E3D2878C09F1A1CF77014250373B7ECC4902877BEDE9AEB2A45FD408",
+      "size": 33192
+    },
+    "static/Raleway-100-900-italic-latin.woff2": {
+      "name": "static/Raleway-100-900-italic-latin.woff2",
+      "checksum": "9E5FE078647762A646B321938BA4096BB0E6F62A7F01C9BC4BE5AB606666FCA1",
+      "size": 50424
+    },
+    "static/Raleway-100-900-italic-vietnamese.woff2": {
+      "name": "static/Raleway-100-900-italic-vietnamese.woff2",
+      "checksum": "80DE52AEB6CC399A3E6B111946607C9216891231BCA467D08D6CFED18B1642DD",
+      "size": 11768
+    },
+    "static/Raleway-100-900-normal-cyrillic-ext.woff2": {
+      "name": "static/Raleway-100-900-normal-cyrillic-ext.woff2",
+      "checksum": "36920A27F3F245302F04E96A331D42B81DCEDA91B5229DFD757873BF12DB4B05",
+      "size": 26988
+    },
+    "static/Raleway-100-900-normal-cyrillic.woff2": {
+      "name": "static/Raleway-100-900-normal-cyrillic.woff2",
+      "checksum": "B9B71D672AB268B3853B6FB9DC99942F283A415D4AB271B8E4DC597F33E18F4D",
+      "size": 25796
+    },
+    "static/Raleway-100-900-normal-latin-ext.woff2": {
+      "name": "static/Raleway-100-900-normal-latin-ext.woff2",
+      "checksum": "2F0DC96A0B24CC9AF003B43BC4F477639FCED863F4F967DD2B5E451F621CD09D",
+      "size": 30860
+    },
+    "static/Raleway-100-900-normal-latin.woff2": {
+      "name": "static/Raleway-100-900-normal-latin.woff2",
+      "checksum": "47D477915FA5912616E2DC5DF8C5780F9202671678CF275472BD39F3381C0098",
+      "size": 48336
+    },
+    "static/Raleway-100-900-normal-vietnamese.woff2": {
+      "name": "static/Raleway-100-900-normal-vietnamese.woff2",
+      "checksum": "49D1DF38711652B72CBB3ED91DFDA0A981B88F75BE4ABB02EB6640F74F2A5BEE",
+      "size": 11384
+    }
+  },
+  "zip_url": "https://codeload.github.com/midhundas509/raleway-font/zip/refs/heads/main",
+  "checksum": "152EA4361F160D928869B2AF4B2BCC1A7CA7281DC67F07814C1DBABB0EE0334B"
+}
